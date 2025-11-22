@@ -42,7 +42,6 @@ images/
     ├── excel-2.png
     ├── filters-1.png
     ├── quinto_andar_site_2.png
-    ├── search-1.png
     ├── search-2.1.png
     ├── search-2.2.png
     ├── search-2.png
@@ -150,7 +149,7 @@ requirements.txt
  <img src="images/excel-1.png" width="850"/> 
  <img src="images/excel-1.1.png" width="850"/>
 
- <br><br><br>
+ <br><br>
 
  ### Properties for rent in Tijuca – up to R$ 3,500/month
  <img src="images/search-2.png" width="850"/> 
@@ -159,8 +158,9 @@ requirements.txt
  <img src="images/search-results-2.png" width="850"/> 
 
  ### Excel Report
- <img src="images/excel-1.png" width="850"/> 
- <img src="images/excel-1.1.png" width="850"/>
+ <img src="images/excel-2.png" width="850"/> 
+ <img src="images/excel-2.1.png" width="850"/>
+ <img src="images/excel-2.2.png" width="850"/>
 
 
 ### *Made by [Hugo Mello](https://github.com/HugoCDM)*
